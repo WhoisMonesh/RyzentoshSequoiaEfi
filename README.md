@@ -2,6 +2,9 @@
 **macOS Version**: 15 Sequoia  
 **Status**: Fully Functional ✅  
 
+![Screenshot 2025-06-09 at 8 03 01 PM](https://github.com/user-attachments/assets/598ce3d4-546b-4e71-a875-00d5cf422364)
+
+
 ## System Specifications
 
 ### Motherboard
